@@ -4,7 +4,7 @@
 
 # Ello Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Frosty and I'm a software developer. I'm from India, living in Rajasthan and currently working as a freelancer. You can find me on Discord @ FrostyTheDumDum#5826.
+My name is Frosty and I'm a software developer. I'm from India, living in Rajasthan and currently working as a freelancer. You can find me on Discord @ FrostyTheDumDum#6969.
 
 ## &#x270d; Freelance and how to reach me
 
