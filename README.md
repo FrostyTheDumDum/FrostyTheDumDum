@@ -8,7 +8,7 @@ My name is Frosty and I'm a software developer. I'm from India, living in Rajast
 
 ## &#x270d; Freelance and how to reach me
 
-If you want a programmer, Feel free to reach me through at my discord, FrostyTheDumDum#5826 :D 
+If you want a programmer, Feel free to reach me through at my discord, FrostyTheDumDum#6969 :D 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
