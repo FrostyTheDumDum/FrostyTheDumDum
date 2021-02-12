@@ -4,11 +4,11 @@
 
 # Ello Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Frosty and I'm a software developer. I'm from India, living in Rajasthan and currently working as a freelancer. You can find me on Discord @ FrostyTheDumDum#6969.
+My name is Frosty and I'm a software developer. I'm from India, living in Rajasthan and currently working as a freelancer. You can find me on Discord @ FrostyTheDumDum#2021.
 
 ## &#x270d; Freelance and how to reach me
 
-If you want a programmer, Feel free to reach me through at my discord, FrostyTheDumDum#6969 :D 
+If you want a programmer, Feel free to reach me through at my discord, FrostyTheDumDum#2021 :D 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -37,9 +37,3 @@ If you want a programmer, Feel free to reach me through at my discord, FrostyThe
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
