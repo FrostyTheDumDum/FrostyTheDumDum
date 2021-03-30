@@ -4,11 +4,7 @@
 
 # Ello Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Frosty and I'm a software developer. I'm from India, living in Rajasthan and currently working as a freelancer. You can find me on Discord @ FrostyTheDumDum#2021.
-
-## &#x270d; Freelance and how to reach me
-
-If you want a programmer, Feel free to reach me through at my discord, FrostyTheDumDum#2021 :D 
+My name is Yani and I'm a software developer.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -22,7 +18,7 @@ If you want a programmer, Feel free to reach me through at my discord, FrostyThe
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/FrostyTheDumDum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrostyTheDumDum&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YaniCode&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 <!-- links to social media icons -->
 
