@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-Feel free to contact me on Discord! @FrostyTheBopCat<br></br>
+Feel free to contact me on Discord! @FrostyTheBopCat#4028<br></br>
 <a href="https://github-readme-stats.vercel.app/api?username=YaniCode&show_icons=true&theme=nord">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YaniCode&show_icons=true&theme=nord" />
 </a><br></br>
