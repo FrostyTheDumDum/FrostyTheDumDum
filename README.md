@@ -1,31 +1,22 @@
-# Ello Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align="center">
+<h2>Ello! :D</h2>
+<p align="center">I'm Frosty! A full stack developer who just likes to fiddle around with databases ;D I currently code in multiple languages.</p>
 
-My name is Yani and I'm a software developer.
+<p align="center">
+<strong>Languages that I know!</strong>
+<p align="center">
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C++%20-%23323330.svg?&logo=c%2B%2B&style=for-the-badge"/>
+</p>
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+<p align="center">
+<strong>Languages I currently use</strong>
+<p align="center">
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C++%20-%23323330.svg?&logo=c%2B%2B&style=for-the-badge"/>
+</p>
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/FrostyTheDumDum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YaniCode&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
+<p align="center">
+Feel free to contact me on Discord! @FrostyTheBopCat<br></br>
+<a href="https://github-readme-stats.vercel.app/api?username=YaniCode&show_icons=true&theme=nord">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YaniCode&show_icons=true&theme=nord" />
+</a><br></br>
+</p>
