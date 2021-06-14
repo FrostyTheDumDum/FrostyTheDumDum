@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Feel free to contact me on <a href="https://discord.com/users/730004590627389466">Discord!</a><br></br>
+  Feel free to contact me on <a href="https://discord.com/users/805475713032650753">Discord!</a><br></br>
 <a href="https://github-readme-stats.vercel.app/api?username=YaniCode&show_icons=true&theme=nord">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrostyTheDumDum&show_icons=true&theme=nord" />
 </a><br></br>
