@@ -7,11 +7,8 @@
    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
    <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=red"/>
    <img alt="Python" src="https://img.shields.io/badge/python-%23000000.svg?&style=for-the-badge&logo=python&logoColor=blue"/>
-   <img alt="HTML" src="https://img.shields.io/badge/CSS%20-%23323330.svg?&style=for-the-badge&logo=html&logoColor=%23F7DF1E">
-   <img alt="CSS" src="https://img.shields.io/badge/HTML%20-%23323330.svg?&style=for-the-badge&logo=css&logoColor=%23F7DF1E">
 </p>
 <p align="center">
    Feel free to contact me on <a href="https://discord.com/users/855464455752122379">Discord!</a><br></br>
-   <img src="https://github-readme-stats.vercel.app/api?username=FrostyTheDumDum&show_icons=true&theme=nord" />
    <img src="http://github-readme-streak-stats.herokuapp.com?user=FrostyTheDumDum&theme=gruvbox"/>
 </p>
