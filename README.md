@@ -1,6 +1,6 @@
 <p align="center">
 <h2>Hello there 👋</h2>
-<p align="center">I'm Frosty! A full stack developer who just likes to fiddle around with databases. I currently code in multiple languages.</p>
+<p align="center">I'm Icylla. A full stack developer who just likes to fiddle around with databases. I currently code in multiple languages.</p>
 <p align="center">
    <strong>Languages that I use!</strong>
 <p align="center">
