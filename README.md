@@ -10,5 +10,5 @@
 </p>
 <p align="center">
    Feel free to contact me on <a href="https://discord.com/users/855464455752122379">Discord!</a><br></br>
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=FrostyTheDumDum&theme=gruvbox"/>
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=Icylla&theme=gruvbox"/>
 </p>
